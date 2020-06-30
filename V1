@@ -77,7 +77,7 @@ local function DSDEW_fake_script() -- TextButton.LocalScript
 		      [1] = {
 		          [1] = "Appliance",
 		          [2] = "13", 
-		          [3] = -int, --Change this to any number and make it negative
+		          [3] = int, --Change this to any number and make it negative
 		          [4] = false
 		      },
 		      [2] = {
